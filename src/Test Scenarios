@@ -1,0 +1,66 @@
+Begin:
+
+1. Add the selenium driver and junit in the pom file
+2. Create the folder in the below order for POM
+   TestBase Class (Actual Test begin here)
+   Test Begin Class( Connect the driver and Close the driver) extends with TestBase Class
+   Page Objects Class and make an connection with Test Begin Class
+   Driver Manager Class to select the browser driver
+
+Project URL: http://demo.automationtesting.in/
+
+Login Page :
+
+Login to the Page with valid gmail id
+
+Signup Page :
+
+Signup the Page with only mandatory details
+Signup the Page with Address
+Signup the Page with Language
+Signup the Page with Skills
+Signup the Page with Skills
+Signup the Page with DOB
+Signup the page with Password
+Signup the Page with All the fields
+
+
+Alert handle :
+
+Okay alert
+Okay and cancel alert
+Alert with sending the text input
+
+Windows :
+
+Open a new window in same page
+Open a new window in seperate page
+
+
+Frame :
+
+Select the specific iframe
+Select the iframe inside the iframe
+
+Widgets:
+
+Collabse to unwrap and wrap back
+Autocomplete to search for the word test, india ,japan
+Datepicker to select the date for today date
+Slider to slide the page
+
+Interactions :
+
+Drag and drop the obejcts static
+Drag and drop the objects dynamic
+Select the selectable lines
+Resize the text box
+
+More :
+
+Get radom user details
+Download the file
+Loader to verify the progress
+Modals to select and navigate multiple modals
+
+Menu Navigation
